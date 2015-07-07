@@ -77,5 +77,3 @@ pickle-email-*.html
 # Environment files that may contain sensitive data
 .env
 .powenv
-
-# config file inwhich include user and pass of Gmails and databases
